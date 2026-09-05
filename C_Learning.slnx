@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C_Learning/C_Learning.vcxproj" Id="46ca02fa-4bab-4bc8-9944-d488df521885" />
+</Solution>
